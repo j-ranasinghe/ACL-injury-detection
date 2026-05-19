@@ -1,7 +1,11 @@
 #  ACL injury detection using MRNet dataset and Deep learning models
 
+This project explores AI-based methods for ACL injury diagnosis using MRI data through:
 
-This was done as part of a coursework for the module CM 4604 - Research Trends
+1. systematic literature review,
+2. reproduction of prior deep learning papers,
+3. comparative evaluation of architectures,
+4. analysis of datasets, limitations, and reproducibility challenges.
 
 MRNet model, AlexNet model and a Vision Transformer were implemented.
 
